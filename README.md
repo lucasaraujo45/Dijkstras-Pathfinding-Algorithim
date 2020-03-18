@@ -1,3 +1,3 @@
-# Dijkstras-Pathfinding-Algorithim
+Dijkstras-Pathfinding-Algorithim Visualizer
 
 Built in React
